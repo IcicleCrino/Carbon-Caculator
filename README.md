@@ -8,7 +8,6 @@
 交互界面，将用户输入的各项活动的名称和参数传递给后端
 ### 技术栈
 1. vue3
-3. element-plus
-4. TypeScript
+2. element-plus
 
 
